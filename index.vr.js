@@ -24,7 +24,7 @@ export default class vr_blog extends React.Component {
             textAlignVertical: 'center',
             transform: [{translate: [0, 0, -3]}],
           }}>
-          hello
+          Choose a day 
         </Text>
       </View>
     );
